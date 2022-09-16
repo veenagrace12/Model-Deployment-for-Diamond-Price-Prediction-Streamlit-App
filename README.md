@@ -2,7 +2,7 @@
 
 
 
-# Task - Predict the diamond price.💎
+### Task - Predict the diamond price.💎
 
 Write the KNN code from scratch and make it work on the given dataset ?
 
