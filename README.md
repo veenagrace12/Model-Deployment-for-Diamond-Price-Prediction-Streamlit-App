@@ -2,7 +2,7 @@
 
 
 
-#### Task - Predict the diamond price.💎
+### Task - Predict the diamond price.💎
 
 
 Step - 1: Load the data.
